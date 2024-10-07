@@ -93,9 +93,9 @@ body {
   }
   
   a:hover {
-    color: yellow;
+    color: brown;
   }
   
   a:active {
-    color: yellow;
+    color: white;
   }
